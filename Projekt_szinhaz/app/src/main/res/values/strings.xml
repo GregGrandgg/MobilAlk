@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">projekt_szinhaz</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="username">Felhasználó</string>
+    <string name="email">Email cím</string>
+    <string name="jelsz">Jelszó</string>
+    <string name="passwordagain">Jelszó újból</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="product_description">Termék leírása.</string>
+    <string name="in">Belépés</string>
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+
+    <string-array name="shopping_item_names">
+        <item>Páholy 1. hely</item>
+        <item>Páholy 2. második</item>
+        <item>Páholy 3. hely</item>
+        <item>Páholy 4. hely</item>
+        <item>Földszint 1. hely</item>
+        <item>Földszint 2. hely</item>
+        <item>Földszint 3. hely</item>
+        <item>Földszint 4. hely</item>
+        <item>Földszint 5. hely</item>
+        <item>Földszint 6. hely</item>
+        <item>Földszint 7. hely</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Operaház fantomja</item>
+        <item>Operaház fantomja</item>
+        <item>Operaház fantomja</item>
+        <item>Operaház fantomja</item>
+        <item>Operaház fantomja</item>
+        <item>Operaház fantomja</item>
+        <item>Operaház fantomja</item>
+        <item>Operaház fantomja</item>
+        <item>Operaház fantomja</item>
+        <item>Operaház fantomja</item>
+        <item>Operaház fantomja</item>
+    </string-array>
+
+    <array name="shopping_item_price">
+        <item>100000 Ft</item>
+        <item>150000 Ft</item>
+        <item>50000 Ft</item>
+        <item>30000 Ft</item>
+        <item>18000 Ft</item>
+        <item>70000 Ft</item>
+        <item>20000 Ft</item>
+        <item>30000 Ft</item>
+        <item>18000 Ft</item>
+        <item>18000 Ft</item>
+        <item>18000 Ft</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/fantom</item>
+        <item>@drawable/fantom</item>
+        <item>@drawable/fantom</item>
+        <item>@drawable/fantom</item>
+        <item>@drawable/fantom</item>
+        <item>@drawable/fantom</item>
+        <item>@drawable/fantom</item>
+        <item>@drawable/fantom</item>
+        <item>@drawable/fantom</item>
+        <item>@drawable/fantom</item>
+        <item>@drawable/fantom</item>
+    </array>
+</resources>

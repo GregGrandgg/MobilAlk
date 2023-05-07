@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389055097062",
+    "project_id": "szinhazmobilalk",
+    "storage_bucket": "szinhazmobilalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389055097062:android:0ddce7979f90724fba3327",
+        "android_client_info": {
+          "package_name": "com.example.projekt_szinhaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389055097062-2mgjo8tvsb5hmjdm6n3cd333jeamfgtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projekt_szinhaz",
+            "certificate_hash": "0e0780db2bea9e0eb3b37f5f50c0428d53319cf8"
+          }
+        },
+        {
+          "client_id": "389055097062-fo6l00irco40p43g0mpoagao9gqk57gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiNSgwyXwvWMyOSpSO7ImwaN8p0ctqzEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389055097062-fo6l00irco40p43g0mpoagao9gqk57gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
